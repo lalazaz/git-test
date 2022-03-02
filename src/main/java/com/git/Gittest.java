@@ -8,5 +8,6 @@ public class Gittest {
         System.out.println("hot-fix修改演示冲突合并2");
         System.out.println("hot-fix修改演示冲突合并");
         System.out.println("master修改演示冲突合并3");
+        System.out.println("IDEA push test");
     }
 }
