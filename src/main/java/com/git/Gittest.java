@@ -5,6 +5,6 @@ public class Gittest {
         System.out.println("Hello,Git!");
         System.out.println("Hello,Git!2");
         System.out.println("hot-fix修改演示正常合并");
-        System.out.println("hot-fix修改演示冲突合并");
+        System.out.println("hot-fix修改演示冲突合并2");
     }
 }
